@@ -4,6 +4,7 @@
 
 ## Group
 Dayne, Felicia, Myles, Jackie
+Link to GitHub Repository: https://github.com/DayneLalmond/cookie-coder
 
 **Project Title**
 
